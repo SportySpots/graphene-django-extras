@@ -57,7 +57,7 @@ setup(
     install_requires=[
         'graphql-core==2.0',
         'graphene==2.1.3',
-        'graphene-django==2.0',
+        'graphene-django==2.2.0',
         'django-filter==2.0.0',
         'djangorestframework>=3.6.0'
     ],

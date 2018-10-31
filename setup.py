@@ -55,7 +55,7 @@ setup(
     packages=get_packages(),
 
     install_requires=[
-        'graphql-core==2.0',
+        'graphql-core==2.1',
         'graphene==2.1.3',
         'graphene-django==2.2.0',
         'django-filter==2.0.0',
